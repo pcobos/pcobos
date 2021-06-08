@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on content creation for the tech industry in Latin America
 - 💬 Ask me about learning to code in your 30s
 - 📫 How to reach me: pedro.cobos@live.com
-- ⚡ Fun fact: I have lived in 4 countries (looking to add a 5th one :wink:)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
